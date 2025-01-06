@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharkk2
 - 👀 I’m interested in discord bots
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning java and react
 - 📫 discord: sharkkk2
 - 😄 Pronouns: he/him
 
