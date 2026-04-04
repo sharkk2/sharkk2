@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a backend developer<br>I love sharks 🦈<br>
+i code random stuff<br>I love sharks 🦈<br>
 
 
 ## 🌐 Socials:
@@ -12,5 +12,3 @@ I am a backend developer<br>I love sharks 🦈<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sharkk2&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
